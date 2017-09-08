@@ -1,0 +1,1 @@
+This code reads in linescan .tiff files exported from Sutter's [Microscope Control Software](https://www.sutter.com/MICROSCOPES/mcs.html) and extracts the velocity of the red blood cells using the [Radon transform](https://www.ncbi.nlm.nih.gov/pubmed/19459038) and [cross-correlation](https://www.ncbi.nlm.nih.gov/pubmed/22761686) methods.  Requires [Chronux](http://chronux.org/). 
